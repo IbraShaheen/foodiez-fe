@@ -1,0 +1,10 @@
+export const ADD_INGREDIENT = "ADD_INGREDIENT";
+
+export const FETCH_INGREDIENTS = "FETCH_INGREDIENTS";
+
+export const FETCH_CATEGORIES = "FETCH_CATEGORIES";
+
+export const ADD_CATEGORY = "ADD_CATEGORY";
+
+export const ADD_RECIPE = "ADD_RECIPE";
+export const FETCH_RECIPES = "FETCH_RECIPES";
